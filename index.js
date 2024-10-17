@@ -16,7 +16,7 @@ app.post('/order-webhook', (req, res) => {
     const senderId = process.env.SENDER_ID;
     const smsApiUrl = process.env.SMS_API_URL;
     
-    const message = `সম্মানিত গ্রাহক, আপনার অর্ডারটি কনফার্ম করা হয়েছে, ডেলিভারি এজেন্ট কল দিলে, অবশ্যই পার্সেলটি রিসিভ করে নিবেন। টোটাল বিল: ${totalAmount} টাকা। কল করুন 01303559063 chinatobd.shop সাথে থাকার জন্য ধন্যবাদ`;
+    const message = `সম্মানিত গ্রাহক, আপনার অর্ডারটি কনফার্ম করা হয়েছে, ডেলিভারি এজেন্ট কল দিলে, অবশ্যই পার্সেলটি রিসিভ করে নিবেন। <br> টোটাল বিল: ${totalAmount} টাকা। <br> কল করুন 01303559063 chinatobd.shop সাথে থাকার জন্য ধন্যবাদ`;
 
     // Elitbuzz API URL with environment variables
     const fullSmsApiUrl = `${smsApiUrl}?api_key=${apiKey}&type=text&contacts=${customerPhone}&senderid=${senderId}&msg=${encodeURIComponent(message)}`;
