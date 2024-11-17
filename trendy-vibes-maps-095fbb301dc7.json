@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "trendy-vibes-maps",
+  "private_key_id": "095fbb301dc79c0017ccbd5038ca9c87ac0165f0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClg1gP0fZvy4Pu\nlL9wsjdQBgc0fzWYyMZQylWijlsaY8PCZcNAhbYjVW6kKuzh5uETo5pSTO4zsxYF\nX0I15DxniM+QrQsTGhqdGqAjaQ0ehpaCL1axho+ZHCCNwldVLY8FuWC3Ae3gisol\nb+Kgb3t4dwoxd/N//N6nIyo2Km3umETzE8GEa69qgF/K9XR76bpK1yTtRlj7WUIH\nUg6UGZ+INmGpLsIHScBHLfkEjmTG3ILo8cMqfkOYophY3V/Di2FtqYRyh66odIuG\n35cHsJJBaIJKCY3CER8YVtAfQNiQFfvig4/MO6amc7YpkLWvJn7MofaUQ5xnfxW+\nYQLBXFT/AgMBAAECggEAFLxMQ4sf7yiVikXLaCCDqnxe2bZYLiB1K/j1WoywIDHA\nfDHIkORPicSxvFJ+Y9zLdOzpsAbgTszQZPLmth62bJgovOzY9tct32HPDzChiqH8\n6ClrGImNovZxo6Dl1Q+EnAh58+ODfD6XDbKjN0tQMirjtYfcEzxIXrManjeZlyr7\n0tjDIsOosMMjixp7oyO6oJZE1ZBvwJ3+CbzF/kqTl6rqtJ9hLl7esp9rcMqL6Rb3\n6UqGodvaGfEWrUWvyBqcBeLkrCxFJOKWPJz2+hLfT4NnxInWMhCFDrqR7TmHkuK7\n0jzJhCPMoJUsjwWuoBQzzoFvyUpY8W75TRKk8zizwQKBgQDXe9eDz66HL5KOeAsT\nl9+vw7FKBmHzmlOji/XFbeyYMHz6ZAPc7kYKvLkhWICxgma7RQw6s1+OxVVWOPi7\nes0EBAOoGBdaSLRBO6KtogrUkFEuo2kCDVMBBvrn/chHXJDIK6LQptg8lgVE2+Ss\nKAsVRlY935fJPPG53mOs0LY0PwKBgQDEojK3WjMkYci4U23e8i7vEH9H1UBto9EL\noms2rFboD9rg7oRO+c1YbFlPFVTwd/z1e1F+qbWV6tIkWjgDp0iUfdbbjl7D/fr3\nZZAUmF2gTv5P3UQfRDlxyveU4zzlT5KGW1TOBV9mP5TGAyE0nByludP7mC85VT1Y\nQbVHah6vQQKBgQCgPhgmjWrcXSQ/jkWubGKL8psE0XpGDZ3lIU/DYdtv0Z8fFQFK\nambr1SxW/9m0J6T93nsZrAqDwXuUgwl1YfzT36hYeJHlMevaFt8DAF3NdQTqCdst\nC3uOaAJuQuuNJekE8m5Be9GSPH3ulxeWbrDPQV8g5AWcQRYBgr/c49ibQQKBgF98\naGZzTdyAA6nHEdavAq2i9DwcyZG0eGJO+ANvwzAj6uVJzkRPuDEVRHVL5Zh0nAlV\nXijFHuHzSyLOEN9tT6iUR08NHuXMIyAaWNI3f1fGpGaCC3+ncMHaj0nk44BzmLLY\nDSGSqFYN0CAsCubyXFL6H3/Q0jXkN8rw9af9V3NBAoGBAKx656GrkIXM/Pc/0DtR\nyyQOgJPdgeBf8knEsVQPcRD0Jt3gs/pV3dqr206AspUb7vNh3p5ImBbATWTa1yGR\nRhGwYuxnGAA2pxsXPVNazzyDieT+1/0rYcNC1qCcyGVbKnHmtnFkYZ67KSVHAS1J\n4fEBKVOv6gvp3waXubeGRJis\n-----END PRIVATE KEY-----\n",
+  "client_email": "china-to-bd@trendy-vibes-maps.iam.gserviceaccount.com",
+  "client_id": "116397210220604341470",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/china-to-bd%40trendy-vibes-maps.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
