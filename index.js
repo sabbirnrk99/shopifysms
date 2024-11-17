@@ -10,7 +10,8 @@ app.use(express.json());
 
 // Google Sheets setup
 const SHEET_ID = process.env.SHEET_ID; // Add your Google Sheet ID here
-const credentials = JSON.parse(fs.readFileSync('./trendy-vibes-maps-095fbb301dc7.json', 'utf-8')); // Replace with your JSON key file path
+const credentials = JSON.parse(fs.readFileSync(process.env.GOOGLE_CREDENTIALS_PATH, 'utf-8'));
+
 
 // Authenticate with Google
 const auth = new google.auth.GoogleAuth({
